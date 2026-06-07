@@ -1,0 +1,35 @@
+# Day 5 - Context Engineering
+
+## What I Learned
+
+Context Engineering improves AI outputs by providing detailed background information instead of relying on generic prompts.
+
+## Experiment
+
+### Prompt A
+Generic AI Engineer roadmap request.
+
+### Result
+Received a generic roadmap applicable to anyone.
+
+### Prompt B
+Provided personal profile, skills, goals, timeline, and constraints.
+
+### Result
+Received a personalized AI Engineer roadmap aligned with my current Reporting Analyst role and Data Analytics background.
+
+## Key Insight
+
+The quality of AI output is directly proportional to the quality of context provided.
+
+Prompt Engineering asks better questions.
+
+Context Engineering provides better information.
+
+## Real-World Applications
+
+- AI Agents
+- Career Planning
+- Project Planning
+- Business Strategy
+- Personalized Learning
